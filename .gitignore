@@ -3,14 +3,23 @@
 
 # Log file
 *.log
+*/logs/
 # IntelliJ
-/out/
+*/target/
+/target/*
 /target/
+target/
+target
 .idea
 .idea/
 /.idea
-/.idea/
+/.idea/*
+*.iml
 # web
 /webapp/WEB-INF/classes/
+*/webapp/WEB-INF/classes/
 # test
-/test/
+*/test/
+/test
+test/
+/test/*
